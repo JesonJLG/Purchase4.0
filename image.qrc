@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/back">
+        <file>picture/COLA.jpeg</file>
+        <file>picture/BeautifulYearReach.jpg</file>
+        <file>picture/GreenTea.jpg</file>
+        <file>picture/HappyThing.jpg</file>
+        <file>picture/KingOldGood.jpg</file>
+        <file>picture/MoralFU.jpg</file>
+        <file>picture/RedTea.jpeg</file>
+        <file>picture/AAAAAAA.jpg</file>
+        <file>picture/BingGna.jpg</file>
+        <file>picture/EvilYuConfortabale.jpg</file>
+        <file>picture/HHHHHHH.jpg</file>
+        <file>picture/Plate.png</file>
+        <file>picture/Shark.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+    <qresource prefix="/new/prefix3"/>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>picture/AAAAAAA.jpg</file>
+        <file>picture/BeautifulYearReach.jpg</file>
+        <file>picture/BingGna.jpg</file>
+        <file>picture/COLA.jpeg</file>
+        <file>picture/EvilYuConfortabale.jpg</file>
+        <file>picture/GreenTea.jpg</file>
+        <file>picture/HappyThing.jpg</file>
+        <file>picture/HHHHHHH.jpg</file>
+        <file>picture/KingOldGood.jpg</file>
+        <file>picture/MoralFU.jpg</file>
+        <file>picture/Plate.png</file>
+        <file>picture/RedTea.jpeg</file>
+        <file>picture/Shark.jpg</file>
+    </qresource>
+</RCC>
